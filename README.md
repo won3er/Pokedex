@@ -5,3 +5,4 @@ Funcionabilidades:
 - Randomizar um pokémon
 - Intercalar entre modo noturno e claro
 Possui as principais informações sobre cada pokémon.
+site: https://wonerpokedex.000webhostapp.com
